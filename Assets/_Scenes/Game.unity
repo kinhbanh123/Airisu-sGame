@@ -12340,7 +12340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23da293305e279448bf29655d396bac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 3546136019373105572, guid: 62caefd32acc8d84b82d94464d05db15, type: 3}
+  bulletPrefab: {fileID: 1367524025346344, guid: 2e99b36d21f71e040bd1abbbb984c505, type: 3}
   holder: {fileID: 0}
   shootDelay: 0.05
   shootTimer: 0
@@ -12393,7 +12393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23da293305e279448bf29655d396bac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 3546136019373105572, guid: 62caefd32acc8d84b82d94464d05db15, type: 3}
+  bulletPrefab: {fileID: 1367524025346344, guid: 2e99b36d21f71e040bd1abbbb984c505, type: 3}
   holder: {fileID: 0}
   shootDelay: 0.05
   shootTimer: 0
@@ -13767,7 +13767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23da293305e279448bf29655d396bac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 3546136019373105572, guid: 62caefd32acc8d84b82d94464d05db15, type: 3}
+  bulletPrefab: {fileID: 1367524025346344, guid: 2e99b36d21f71e040bd1abbbb984c505, type: 3}
   holder: {fileID: 0}
   shootDelay: 0.1
   shootTimer: 0
@@ -13787,7 +13787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23da293305e279448bf29655d396bac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 3546136019373105572, guid: 62caefd32acc8d84b82d94464d05db15, type: 3}
+  bulletPrefab: {fileID: 1367524025346344, guid: 2e99b36d21f71e040bd1abbbb984c505, type: 3}
   holder: {fileID: 0}
   shootDelay: 0.05
   shootTimer: 0
@@ -15108,7 +15108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23da293305e279448bf29655d396bac2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 3546136019373105572, guid: 62caefd32acc8d84b82d94464d05db15, type: 3}
+  bulletPrefab: {fileID: 1367524025346344, guid: 2e99b36d21f71e040bd1abbbb984c505, type: 3}
   holder: {fileID: 0}
   shootDelay: 0.1
   shootTimer: 0
