@@ -16,7 +16,7 @@ Material:
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2449
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
@@ -41,9 +41,9 @@ Material:
     - _LaserEdgeSmoothness: 14.8
     - _LaserThickness: 120
     - _QueueControl: 0
-    - _QueueOffset: 0
+    - _QueueOffset: -1
     m_Colors:
-    - _Color: {r: 1, g: 0, b: 0.020870686, a: 1}
+    - _Color: {r: 4, g: 0, b: 0.08348274, a: 1}
     - _LaserSpeed: {r: -5, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -5343,7 +5343,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: cd179231c59f114438c2b568224cc5d8, type: 3}
+  m_Texture: {fileID: 2800000, guid: 8a63410bc7c64874d907d8c57245c8b3, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -12129,7 +12129,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_TargetDisplay: 0
 --- !u!224 &1559198049
 RectTransform:
